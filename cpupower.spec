@@ -5,7 +5,7 @@
 %define version		3.4.1
 %define src_uname_r	3.4.1-1
 %define source_release	1
-%define build_release	1%{nil}
+%define build_release	2%{nil}
 %define archive		cpupower-3.4.1-1.1
 
 %define build_srpm	1
