@@ -27,7 +27,7 @@
 
 Name:			%{name}
 Summary:		The power analysis tools for your processor
-URL:			http://www.kernel.org
+URL:			https://www.kernel.org
 Group:			System/Kernel and hardware
 License:		GPLv2
 Version:		%{version}
