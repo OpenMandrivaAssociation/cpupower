@@ -31,7 +31,7 @@ URL:			https://www.kernel.org
 Group:			System/Kernel and hardware
 License:		GPLv2
 Version:		%{version}
-Release:		%mkrel %{source_release}.%{build_release}
+Release:		%{source_release}.%{build_release}.1
 ExclusiveArch:		%{ix86} x86_64
 %if %build_srpm
 Source:			%{archive}.tar.bz2
